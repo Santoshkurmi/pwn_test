@@ -70,7 +70,7 @@ zathura-pdf-poppler
 metis-skel
 metis-scripts
 metis-grub-theme
-nerd-fonts-jetbrains-mono
+#nerd-fonts-jetbrains-mono
 metis-live-scripts
 metis-welcome
 metis-rankmirrors
