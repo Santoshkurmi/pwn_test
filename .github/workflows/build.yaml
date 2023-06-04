@@ -36,6 +36,7 @@ jobs:
           mkdir ~/artools-workspace/iso-profiles -p
           cp base ~/artools-workspace/iso-profiles -r
           mkdir ~/.config/artools -p
+          
           cp config/pacman.conf /usr/share/artools/pacman.conf.d/default.conf
           cp config/me* /etc/pacman.d/
 

@@ -64,7 +64,7 @@ nsxiv
 metis-dwm
 brillo
 metis-fonts
-metis-fonts-extra
+#metis-fonts-extra
 zathura
 zathura-pdf-poppler
 metis-skel
@@ -76,7 +76,7 @@ metis-welcome
 metis-rankmirrors
 metis-backgrounds-branding
 metis-backgrounds-extra
-metis-wallpapers-catppuccin
+#metis-wallpapers-catppuccin
 
 # Utilities
 git
